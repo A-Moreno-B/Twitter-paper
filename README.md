@@ -1,2 +1,2 @@
 # Tweets-Covid
-Trabajo de recopilación de tweets durante la campaña de vacunación. Dic 20 - jun 21
+Work on collecting tweets during the vaccination campaign. Dec 20 - Jun 21
